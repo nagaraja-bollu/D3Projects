@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="957234f8-2542-233d-7060-f719dff1c988" name="Nagaraja.Bollu@INDBANL187 2017-06-15T14:48:39" runUser="Nagaraja.Bollu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Karma Test Run" id="a8e6ff97-4df0-dc6c-81e9-30d78c50bf5e"/>
+  <Times creation="2017-06-15T14:48:39" queuing="2017-06-15T14:48:39" start="2017-06-15T14:48:39" finish="2017-06-15T14:48:40"/>
+  <ResultSummary outcome="Failed">
+    <Counters total="0" executed="0" passed="0" error="1" failed="0"/>
+  </ResultSummary>
+  <TestDefinitions/>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d"/>
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda"/>
+  </TestLists>
+  <TestEntries/>
+  <Results/>
+</TestRun>
